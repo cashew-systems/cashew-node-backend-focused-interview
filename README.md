@@ -2,8 +2,6 @@
 
 ## Setup
 1. Run setup: `bash scripts/setup.sh`
-1. Install dependencies `npm install`
-1. Run the initial migration `npm run migrate`
 1. Run with `npm run start`
 
 ## Project layout
